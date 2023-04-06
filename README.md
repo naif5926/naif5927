@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Cross Platform Development**
 
-- 👯 I’m looking to collaborate on **Software**
+- 👯 I’m looking to collaborate on **Software Development**
 
-- 🤝 I’m looking for help with **creating a Freelance**
+- 🤝 I’m looking for help with **creating a Freelance Business**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
