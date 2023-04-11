@@ -3,11 +3,13 @@
 
 - 🔭 I’m going to study **BCA**
 
-- 🌱 I’m currently learning **Cross Platform Development**
+- 🌱 I’m currently learning **Cross Platform Development, Penetration testing**
 
-- 👯 I’m looking to collaborate on **Software Development**
+- 🤝 I’m looking for help with **creating a Freelance**
 
-- 🤝 I’m looking for help with **creating a Freelance Business**
+- 💬 Ask me about **Python, Kali Linux, JvaScript**
+
+- 📫 How to reach me **onlyme5927@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
